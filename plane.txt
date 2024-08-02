@@ -1,3 +1,5 @@
 Ecom app
 1)log in
 2)log out
+3)number of classes
+4)number of benches
