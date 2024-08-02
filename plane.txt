@@ -1,7 +1,7 @@
 Ecom app
 1)log in
 2)log out
-3)number of classes
-4)number of benches
-5)number of students
-6)number of branches
+3)classes
+4)benches
+5)students
+6)branches
