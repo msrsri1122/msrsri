@@ -3,3 +3,5 @@ Ecom app
 2)log out
 3)number of classes
 4)number of benches
+5)number of students
+6)number of branches
